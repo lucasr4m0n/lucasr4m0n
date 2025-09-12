@@ -48,8 +48,8 @@ Atualmente, minha jornada está focada em me tornar um **desenvolvedor Full-Stac
 
 ### 🤝 Conecte-se comigo
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ramon20)
-  [![Email](https://img.shields.io/badge/Email-lucasr4m0n18%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasr4m0n18@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ramon20)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:lucasr4m0n18@gmail.com)
 -----
 
 

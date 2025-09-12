@@ -48,7 +48,7 @@ Atualmente, minha jornada está focada em me tornar um **desenvolvedor Full-Stac
 
 ### 🤝 Conecte-se comigo
 
-  * **LinkedIn:** : www.linkedin.com/in/lucas-ramon20
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ramon20)
   * **Email:** : lucasr4m0n18@gmail.com
 -----
 

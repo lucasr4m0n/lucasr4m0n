@@ -15,6 +15,18 @@ Eu diria que sou uma pessoa **proativa**, **dedicada** e **sempre disposta a apr
 
 -----
 
+
+### 🎓Formação
+
+📚 **Engenharia de Software** | UNINTER | (2025 - 2028)
+
+☁️ **AWS re/Start + IA** | Escola da Nuvem | (2025)
+
+💻 **Programa BIT - Desenvolvimento Front-End** | Vai Na Web | (2025)
+
+
+-----
+
 ### 🚀 Minha Jornada e Foco
 
 Atualmente, minha jornada está focada em me tornar um **desenvolvedor Full-Stack**. Para isso, estou aprofundando meus conhecimentos em:
@@ -32,7 +44,7 @@ Atualmente, minha jornada está focada em me tornar um **desenvolvedor Full-Stac
 -----
 
 
-### 📈 Minhas Estatísticas no GitHub
+
 
 ### 📈 Minhas estatísticas no GitHub
 

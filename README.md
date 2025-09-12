@@ -33,9 +33,11 @@ Atualmente, minha jornada está focada em me tornar um **desenvolvedor Full-Stac
 
 ### 📈 Minhas Estatísticas no GitHub
 
-https://github-readme-stats.vercel.app/api?username=lucasr4m0n&show_icons=true&theme=default
+### 📈 Minhas estatísticas no GitHub
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=lucasr4m0n&layout=compact&theme=default
+![lucasr4m0n estatísticas](https://github-readme-stats.vercel.app/api?username=lucasr4m0n&show_icons=true&theme=default)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasr4m0n&layout=compact&theme=default)
 
 -----
 

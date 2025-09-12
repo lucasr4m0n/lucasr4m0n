@@ -1,13 +1,8 @@
+![Olá, eu sou um dev](https://readme-typing-svg.herokuapp.com/?lines=Ol%C3%A1!;Sou%20um%20desenvolvedor%20apaixonado.;Pronto%20para%20o%20pr%C3%B3ximo%20desafio.&font=Fira%20Code&center=true&width=450&height=45&size=20)
 
-
-### Olá\! 👋 Sou **Lucas Ramon Souza Viegas**
+👨🏻‍💻 Um Pouco Sobre Mim:
 
 Minha paixão por tecnologia começou cedo, e agora decidi mergulhar de cabeça na **Engenharia de Software**. O que mais me fascina na programação é a capacidade de construir algo do zero e a oportunidade de contribuir para inovações.
-
------
-
-### 💻 Sobre mim
-
 Eu diria que sou uma pessoa **proativa**, **dedicada** e **sempre disposta a aprender mais**.
 
 #### Interesses
@@ -28,6 +23,12 @@ Atualmente, minha jornada está focada em me tornar um **desenvolvedor Full-Stac
   * **Backend & Automação:** Com **Python** para diversas aplicações.
   * **Nuvem & DevOps:** Explorando o mundo da **AWS** e da automação com **IA**.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 -----
 
 
@@ -38,6 +39,10 @@ Atualmente, minha jornada está focada em me tornar um **desenvolvedor Full-Stac
 ![lucasr4m0n estatísticas](https://github-readme-stats.vercel.app/api?username=lucasr4m0n&show_icons=true&theme=default)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasr4m0n&layout=compact&theme=default)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasr4m0n&style=flat-square" alt="Contador de visitantes" />
+</p>
 
 -----
 

@@ -7,16 +7,15 @@ Eu diria que sou uma pessoa **proativa**, **dedicada** e **sempre disposta a apr
 
 #### Interesses
 
-  * Gosto de ler e praticar esportes. 📚⚽️
+  * Gosto de ler e praticar esportes. 📚⚽️
 
 #### Objetivo
 
-  * Meu objetivo no GitHub é ajudar e inspirar outras pessoas, assim como a comunidade me inspira todos os dias. ✨
+  * Meu objetivo no GitHub é ajudar e inspirar outras pessoas, assim como a comunidade me inspira todos os dias. ✨
 
 -----
 
-
-### 🎓Formação
+### 🎓 Formação
 
 📚 **Engenharia de Software** | UNINTER | (2025 - 2028)
 
@@ -24,6 +23,15 @@ Eu diria que sou uma pessoa **proativa**, **dedicada** e **sempre disposta a apr
 
 💻 **Programa BIT - Desenvolvimento Front-End** | Vai Na Web | (2025)
 
+---
+
+### 🏅 Certificações
+
+<p align="center">
+  <a href="https://www.credly.com/badges/f920226c-2e99-4477-a4d3-adaef551aba5/linked_in_profile" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="100"/>
+  </a>
+</p>
 
 -----
 
@@ -31,20 +39,18 @@ Eu diria que sou uma pessoa **proativa**, **dedicada** e **sempre disposta a apr
 
 Atualmente, minha jornada está focada em me tornar um **desenvolvedor Full-Stack**. Para isso, estou aprofundando meus conhecimentos em:
 
-  * **Desenvolvimento Web:** Com **JavaScript**, **HTML** e **CSS**.
-  * **Backend & Automação:** Com **Python** para diversas aplicações.
-  * **Nuvem & DevOps:** Explorando o mundo da **AWS** e da automação com **IA**.
+  * **Desenvolvimento Web:** Com **JavaScript**, **HTML** e **CSS**.
+  * **Backend & Automação:** Com **Python** para diversas aplicações.
+  * **Nuvem & DevOps:** Explorando o mundo da **AWS** e da automação com **IA**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 -----
-
-
-
 
 ### 📈 Minhas estatísticas no GitHub
 
@@ -53,21 +59,16 @@ Atualmente, minha jornada está focada em me tornar um **desenvolvedor Full-Stac
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasr4m0n&layout=compact&theme=default)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasr4m0n&style=flat-square" alt="Contador de visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=lucasr4m0n&style=flat-square" alt="Contador de visitantes" />
 </p>
 
 -----
 
-
 ### 🤝 Conecte-se comigo
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ramon20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ramon20)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:lucasr4m0n18@gmail.com)
-
 
 -----
 
-
 ![Darth Vader](download.gif)
-
-

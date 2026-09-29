@@ -71,7 +71,7 @@ Atualmente, minha stack e foco de estudos abrangem:
 
 ### 🤝 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasramon20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasramon2020)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:lucasr4m0n18@gmail.com)
 
 ---

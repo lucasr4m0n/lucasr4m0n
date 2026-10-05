@@ -27,11 +27,11 @@ Sou uma pessoa **proativa**, **dedicada** e com forte mentalidade de aprendizado
 ☁️ **AWS Certified Developer – Associate** | Certificado Oficial
 
 <p align="center">
-  <a href="https://www.credly.com/badges/b2fd7078-a23a-454f-bd6d-994f745f2a11" target="_blank">
+  <a href="https://www.credly.com/badges/39ffcc84-21e9-4e71-8d48-53241f0f3c3d" target="_blank">
     <img src="assets/AwsCloudPractitionerSelo.png" alt="AWS Certified Cloud Practitioner" height="110"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/39ffcc84-21e9-4e71-8d48-53241f0f3c3d" target="_blank">
+  <a href="https://www.credly.com/badges/b2fd7078-a23a-454f-bd6d-994f745f2a11" target="_blank">
     <img src="assets/AwsDeveloperAssociateSelo.png" alt="AWS Certified Developer Associate" height="110"/>
   </a>
 </p>

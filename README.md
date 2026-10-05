@@ -27,12 +27,12 @@ Sou uma pessoa **proativa**, **dedicada** e com forte mentalidade de aprendizado
 ☁️ **AWS Certified Developer – Associate** | Certificado Oficial
 
 <p align="center">
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="110"/>
+  <a href="https://www.credly.com/badges/b2fd7078-a23a-454f-bd6d-994f745f2a11" target="_blank">
+    <img src="https://api.credly.com/api/v1/badges/b2fd7078-a23a-454f-bd6d-994f745f2a11/badge.png" alt="AWS Certified Cloud Practitioner" height="110"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer Associate" height="40"/>
+  <a href="https://www.credly.com/badges/39ffcc84-21e9-4e71-8d48-53241f0f3c3d" target="_blank">
+    <img src="https://api.credly.com/api/v1/badges/39ffcc84-21e9-4e71-8d48-53241f0f3c3d/badge.png" alt="AWS Certified Developer Associate" height="110"/>
   </a>
 </p>
 ---

@@ -28,11 +28,11 @@ Sou uma pessoa **proativa**, **dedicada** e com forte mentalidade de aprendizado
 
 <p align="center">
   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="100"/>
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="110"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/b41d3cda-d9cf-4f9e-92fb-8d18e80556f8/image.png" alt="AWS Certified Developer Associate" height="100"/>
+    <img src="https://images.credly.com/images/b41d3cda-d9cf-4f9e-92fb-8d18e80556f8/image.png" alt="AWS Certified Developer Associate" height="110"/>
   </a>
 </p>
 ---

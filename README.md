@@ -27,14 +27,14 @@ Sou uma pessoa **proativa**, **dedicada** e com forte mentalidade de aprendizado
 ☁️ **AWS Certified Developer – Associate** | Certificado Oficial
 
 <p align="center">
-  <a href="https://www.credly.com/badges/f920226c-2e99-4477-a4d3-adaef551aba5/linked_in_profile" target="_blank">
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="100"/>
-   </a>
-   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate" target="_blank">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/b41d3cda-d9cf-4f9e-92fb-8d18e80556f8/image.png" alt="AWS Certified Developer Associate" height="100"/>
   </a>
 </p>
-
 ---
 
 ### 🚀 Stack Tecnológica
